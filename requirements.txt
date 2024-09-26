@@ -1,0 +1,8 @@
+flask
+bs4
+groq
+textblob
+praw
+pymongo
+requests
+pandas
